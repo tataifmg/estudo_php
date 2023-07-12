@@ -1,0 +1,6 @@
+php -a = abre terminal interativo
+quit = sai do terminal
+nomeArquivo.php = Ao digitar o nome do arquivo dentro do terminal na pasta do mesmo, o terminal executa o codigo dele 
+$variavel = valor; => Para indicar uma variavel devemos colocar $ e seu nome 
+PHP é o que chamamos de uma linguagem dinamicamente tipada. Logo não precisamos declarar o tipo de uma variavel, 
+a propria lingaguem consegue indentificar o tipo do dado 
